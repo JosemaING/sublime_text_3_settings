@@ -1,4 +1,4 @@
-# Instrucciones de Instalación | sublime_text_3_settings
+# Instrucciones de Instalación
 
 ## Copia de Repositorio
 
